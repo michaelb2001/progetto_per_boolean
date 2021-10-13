@@ -1,0 +1,105 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width: 50%;
+    margin: auto;
+    background-color:rgba(0, 0, 0, 0.4);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 35px;
+}
+header{
+    align-items: center;
+    text-align: center;
+}
+header img{
+    margin-top: 25px;
+    width: 250px;
+}
+
+h1{
+    color:chartreuse;
+}
+
+nav{
+    background-color: chartreuse;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+main{
+    margin-top: 20px;
+    display: inline-block;
+    width: 100%;
+}
+main #uno span{
+    font-size: 25px;
+    color: white;
+}
+
+main #due span{
+    color: white;
+    font-size: 15px;
+}
+
+main #tre p{
+    color: white;
+    font-size: 15px;
+}
+main #tre hr{
+    margin:0px;
+    width: 35%;
+    border:4px solid orange;
+}
+
+
+main #quattro{
+    margin-top: 10px;
+}
+main #quattro span{
+    font-size: 25px;
+    color: white;
+}
+
+main #cinque span{
+    color: white;
+    font-size: 15px;
+}
+
+main #sei p{
+    color: white;
+    font-size: 15px;
+}
+main #sei hr{
+    margin:0px;
+    width: 65%;
+    border:4px solid green;
+}
+
+main #sette{
+    margin-top: 10px;
+}
+main #sette span{
+    font-size: 25px;
+    color: white;
+}
+
+main #otto span{
+    color: white;
+    font-size: 15px;
+}
+
+main #nove p{
+    color: white;
+    font-size: 15px;
+}
+main #nove hr{
+    margin:0px;
+    width: 15%;
+    border:4px solid red;
+}
